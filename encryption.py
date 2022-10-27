@@ -445,4 +445,6 @@ elif(choice=='5'):
     offinsipher()
 elif(choice=='6'):
     Vigenere()
+elif(choice=='7'):
+    hillcipher()
 # print(cipher("shehab",4))
