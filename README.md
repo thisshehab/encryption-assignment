@@ -1,2 +1,1 @@
-# encryption-assignment
-mahmood hodiesh assignment
+# Simple Encryption tool for biggners.
